@@ -39,8 +39,8 @@ https://github.com/Working-Title-MSFS-Mods/fspackages
 * Alot more
 
 
-Thanks to: 
-Nishmaster for the FADEC 
-Friends for helping me with C++ 
-Uwajimaya for the lighting changes  
-*tclayton2k For the steerable nosewheel 
+Thanks to:    
+Nishmaster for the FADEC    
+Friends for helping me with C++    
+Uwajimaya for the lighting changes    
+*tclayton2k For the steerable nosewheel    
