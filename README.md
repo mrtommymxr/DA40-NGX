@@ -37,3 +37,11 @@ https://github.com/Working-Title-MSFS-Mods/fspackages
 * Flightmodel: Correct performance and feel all around
 * Systems: Redo everything, Full G1000- FADEC integration 
 * Alot more
+
+
+Thanks to:
+Nishmaster for the FADEC
+Friends for helping me with C++
+Philipe and Alexis for the Flightmodel
+Uwajimaya for the lighting changes
+*tclayton2k For the steerable nosewheel
