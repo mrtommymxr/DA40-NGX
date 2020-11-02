@@ -1,0 +1,15 @@
+{
+  "manufacturer": "",
+  "package_version": "0.5.0",
+  "minimum_game_version": "1.7.14",
+  "creator": "Working Title",
+  "title": "DA40 NGX",
+  "dependencies": [],
+  "release_notes": {
+    "neutral": {
+      "OlderHistory": "",
+      "LastUpdate": ""
+    }
+  },
+  "content_type": "CUSTOM"
+}

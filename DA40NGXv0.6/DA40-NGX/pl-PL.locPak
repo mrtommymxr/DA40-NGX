@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "pl-PL",
+    "Strings": {
+      "AIRCRAFT.DESCRIPTION": "Model Diamond DA40NG (ang. „Next Generation” – nowa generacja) pojawił się na rynku w 2002 roku jako wyposażone w silnik Diesla rozwinięcie napędzanego silnikiem benzynowym cenionego modelu DA40 XLT.<br><br>Gdy w 2009 roku model NG trafił na rynek amerykański, wątpliwości dotyczące osiągów nowych jednostek napędowych w połączeniu z globalnymi problemami gospodarczymi sprawiły, że samolot został przyjęty dość chłodno. Jednak z biegiem czasu model ten został znacząco ulepszony i zapewnił sobie solidną pozycję na rynku.<br><br>Najważniejsze usprawnienie modelu DA40NG dotyczy jego silnika. Austro AE300 to chłodzony cieczą, czterocylindrowy, rzędowy turbodiesel, zaprojektowany w oparciu o samochodowy silnik Mercedes-Benz. Przy mocy 168 KM jest bardzo oszczędny i obok doskonałego sterowania, wszechstronności i bezpieczeństwa stanowi kolejną zaletę samolotu Diamond.<br><br>Zaawansowana awionika Garmin G1000 zapewnia pilotom łatwy dostęp do bogactwa informacji – odczytów przyrządów pilotażowych i nawigacyjnych, pogody, terenu i ruchu lotniczego. DA40NG wyposażony jest też w usprawniony autopilot, jednak latanie tym samolotem jest tak przyjemne, że raczej nie zechcesz go użyć.",
+      "AIRCRAFT.UI_MANUFACTURER": "Diamond Aircraft",
+      "AIRCRAFT.UI_MODEL": "DA40NGX"
+    }
+  }
+}

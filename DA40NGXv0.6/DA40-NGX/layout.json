@@ -1,0 +1,204 @@
+{
+  "content": [
+    {
+      "path": "de-DE.locPak",
+      "size": 1718,
+      "date": 132447312392674262
+    },
+    {
+      "path": "en-US.locPak",
+      "size": 1367,
+      "date": 132447312322560415
+    },
+    {
+      "path": "es-ES.locPak",
+      "size": 1536,
+      "date": 132447312526729336
+    },
+    {
+      "path": "fr-FR.locPak",
+      "size": 1645,
+      "date": 132447312604056743
+    },
+    {
+      "path": "it-IT.locPak",
+      "size": 1534,
+      "date": 132447312661832205
+    },
+    {
+      "path": "pl-PL.locPak",
+      "size": 1450,
+      "date": 132447312716624385
+    },
+    {
+      "path": "pt-BR.locPak",
+      "size": 1496,
+      "date": 132447312773655345
+    },
+    {
+      "path": "ru-RU.locPak",
+      "size": 2484,
+      "date": 132447312821435415
+    },
+    {
+      "path": "Effects/LIGHT_DA40_Landing.fx",
+      "size": 1160,
+      "date": 132462645869043398
+    },
+    {
+      "path": "Effects/LIGHT_DA40_NavigationGreen.fx",
+      "size": 1158,
+      "date": 132461014955965030
+    },
+    {
+      "path": "Effects/LIGHT_DA40_NavigationRed.fx",
+      "size": 1155,
+      "date": 132461014955994946
+    },
+    {
+      "path": "Effects/LIGHT_DA40_NavigationWhite.fx",
+      "size": 1353,
+      "date": 132461769230083964
+    },
+    {
+      "path": "Effects/LIGHT_DA40_StrobeSimple.fx",
+      "size": 4445,
+      "date": 132463431356337504
+    },
+    {
+      "path": "Effects/LIGHT_DA40_Taxi.fx",
+      "size": 1208,
+      "date": 132462645869093249
+    },
+    {
+      "path": "Effects/texture/FX_ulm01.PNG.dds",
+      "size": 87556,
+      "date": 132456699569509610
+    },
+    {
+      "path": "Effects/texture/fx_ulm01.png.DDS.FLAGS",
+      "size": 21,
+      "date": 132447569545285976
+    },
+    {
+      "path": "Effects/texture/FX_ulm01.PNG.DDS.json",
+      "size": 144,
+      "date": 132447569545285976
+    },
+    {
+      "path": "Effects/texture/FX_ulm02.PNG.dds",
+      "size": 87556,
+      "date": 132455783006451887
+    },
+    {
+      "path": "Effects/texture/fx_ulm02.png.DDS.FLAGS",
+      "size": 21,
+      "date": 132447569545285976
+    },
+    {
+      "path": "Effects/texture/FX_ulm02.PNG.DDS.json",
+      "size": 144,
+      "date": 132447569545285976
+    },
+    {
+      "path": "Effects/texture/FX_ulm03.PNG.dds",
+      "size": 87556,
+      "date": 132461719108903891
+    },
+    {
+      "path": "Effects/texture/fx_ulm03.png.DDS.FLAGS",
+      "size": 21,
+      "date": 132447569545285976
+    },
+    {
+      "path": "Effects/texture/FX_ulm03.PNG.DDS.json",
+      "size": 144,
+      "date": 132447569545285976
+    },
+    {
+      "path": "Effects/texture/FX_ulm04.PNG.DDS",
+      "size": 87556,
+      "date": 132458776466613442
+    },
+    {
+      "path": "Effects/texture/fx_ulm04.png.DDS.FLAGS",
+      "size": 21,
+      "date": 132447569545285976
+    },
+    {
+      "path": "Effects/texture/FX_ulm04.PNG.DDS.json",
+      "size": 144,
+      "date": 132447569545285976
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/AS1000/MFD/DA40ECU.wasm",
+      "size": 51051,
+      "date": 132469048769010188
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA40_NG/ai.cfg",
+      "size": 814,
+      "date": 132475123566852959
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA40_NG/aircraft.cfg",
+      "size": 3712,
+      "date": 132475289066239778
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA40_NG/cockpit.cfg",
+      "size": 5296,
+      "date": 132450959924578157
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA40_NG/engines.cfg",
+      "size": 11136,
+      "date": 132475112952769788
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA40_NG/flight_model.cfg",
+      "size": 22715,
+      "date": 132475115508156610
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA40_NG/systems.cfg",
+      "size": 11100,
+      "date": 132473699868588167
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA40_NG/Checklist/DA40_NG_Checklist.xml",
+      "size": 12823,
+      "date": 132445835390000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA40_NG/model/DA40_cockpit.xml",
+      "size": 16886,
+      "date": 132472594891466911
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA40_NG/panel/panel.cfg",
+      "size": 884,
+      "date": 132452658766544617
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA40_NG/panel/panel.xml",
+      "size": 21589,
+      "date": 132475283903924198
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA40_NG/panel/WTEngineDisplay.xml",
+      "size": 28579,
+      "date": 132475283033203498
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA40_NG/TEXTURE/thumbnail.JPG",
+      "size": 146919,
+      "date": 132447315535784145
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA40_NG/TEXTURE/thumbnail_small.JPG",
+      "size": 146919,
+      "date": 132447315535784145
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "it-IT",
+    "Strings": {
+      "AIRCRAFT.DESCRIPTION": "Il Diamond DA40NG (\"Next Generation\"), una versione diesel del famoso DA40 XLT alimentato a gas, appare per la prima volta sul radar dell'industria aeronautica nel 2002<br><br>Introdotto ufficialmente nel mercato statunitense nel 2009, l'NG viene inizialmente accolto con freddezza a causa dei sospetti sull'energia diesel e le prestazioni mediocri, nonché di un'economia globale in crisi; gli anni successivi, tuttavia, vedono un significativo miglioramento del posizionamento dell'aeromobile sul mercato.<br><br>La maggiore ripresa è dovuta al propulsore del DA40 NG: un turbodiesel Austro AE300 a quattro cilindri in linea raffreddato a liquido. Basato su un motore per auto Mercedez-Benz, l'Austro genera 168 CV e offre prestazioni straordinariamente efficienti in termini di consumo di carburante, che completano perfettamente la straordinaria maneggevolezza, la versatilità e le ottime prestazioni di sicurezza della linea Diamond.<br><br>Grazie all'avionica Garmin G1000 all'avanguardia, i piloti possono accedere facilmente a una vasta gamma di dati fondamentali per il volo: strumentazione, navigazione, condizioni meteorologiche, terreno e traffico. A bordo è presente anche un sistema di pilota automatico avanzato, ma l'esperienza di volo con il DA40NG sarà tanto piacevole da renderne superfluo l'utilizzo.",
+      "AIRCRAFT.UI_MANUFACTURER": "Diamond Aircraft",
+      "AIRCRAFT.UI_MODEL": "DA40NGX"
+    }
+  }
+}
